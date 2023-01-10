@@ -1,3 +1,4 @@
 void main() {
-  print('hello world');
+  late final String name;
+  name = 'nico';
 }
